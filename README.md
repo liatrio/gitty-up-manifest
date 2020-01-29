@@ -1,2 +1,2 @@
 # gitty-up-manifest
-Demo manifest repo for gitty-up tool
+This is a sample repository to showcase the GitOps manifest tool to showcase [gitty-up](https://github.com/liatrio/gitty-up). The gitty-up [CI/CD pipeline](https://github.com/liatrio/gitty-up/blob/master/Jenkinsfile) creates and merges a [pull request](https://github.com/liatrio/gitty-up-manifest/pulls) to updated the gitty-up version in [tools.json](https://github.com/liatrio/gitty-up-manifest/blob/master/tools.json). See [https://github.com/liatrio/gitty-up](https://github.com/liatrio/gitty-up) for more information.
