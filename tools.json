@@ -1,0 +1,14 @@
+{
+  "prod": {
+    "lead-terraform": "2.0.0",
+    "terraform":      "0.12.20",
+    "skaffold":       "1.2.0",
+    "gitty-up":       "0.0.1"
+  },
+  "testing": {
+    "lead-terraform": "2.0.0",
+    "terraform":      "0.12.20",
+    "skaffold":       "1.2.0",
+    "gitty-up":       "0.0.1"
+  }
+}
